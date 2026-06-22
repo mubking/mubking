@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @mubking
-- 👀 I’m interested in crypto currency
-- 🌱 I’m currently learning block chain technology
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ... Through  adeshinamubarak6@gmail.com
+# Hey, I'm Mubaraq 👋
 
-<!---
-mubking/mubking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Full-Stack & Blockchain Developer based in Lagos, Nigeria
+💼 3+ years building across Web, Mobile & Web3
+🔍 Currently open to new opportunities
+
+---
+
+## 🛠️ What I Build
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, TypeScript, Next.js |
+| **Backend** | Node.js, REST APIs, PostgreSQL |
+| **Blockchain** | Rust, Stellar, Smart Contracts, DeFi |
+| **Mobile** | React Native |
+| **DevOps** | Docker, CI/CD, Cloud Deployment |
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 **Notify-Chain** — Contract + off-chain event tracking system
+- 💰 **stellar-wallet-helper** — Enterprise wallet toolkit for Stellar
+- 🌐 **api-fox** — Blockchain-based crowdfunding on Stellar
+
+---
+
